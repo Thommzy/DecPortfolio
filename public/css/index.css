@@ -1,0 +1,90 @@
+body {
+  background: black;
+  height: 100% !important;
+}
+
+.rightTopNav {
+  position: absolute;
+  left: 78%;
+}
+
+.mainContainer {
+  background: black;
+}
+.wholeNavbar {
+  background: black !important;
+}
+
+.wholeNavbar a {
+  color: white !important;
+}
+
+.hero-image {
+  background-image: url('../img/main_1.jpg');
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+.skills {
+  margin-top: 40px;
+}
+
+.skills h1 {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.qualification {
+  margin-top: 40px;
+}
+
+.qualification h1 {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.education {
+  margin-top: 40px;
+}
+
+.education h1 {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.trainingAndExperience {
+  margin-top: 40px;
+}
+
+.trainingAndExperience h1 {
+  text-transform: uppercase;
+  font-size: 25px;
+}
