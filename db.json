@@ -1,16 +1,70 @@
 {
-  "posts": [
+  "details": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "json-server",
+      "company": "typicode",
+      "opinion": "lorem ipaum"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Timothy Tomiwa",
+      "company": "",
+      "opinion": "",
+      "id": 2
+    },
+    {
+      "name": "Timothy Tomiwa",
+      "company": "Codebit",
+      "opinion": "kngshsb",
+      "id": 3
+    },
+    {
+      "name": "",
+      "company": "",
+      "opinion": "",
+      "id": 4
+    },
+    {
+      "name": "Timothy Tomiwa",
+      "company": "Codebit",
+      "opinion": "ssss",
+      "id": 5
+    },
+    {
+      "name": "Timothy Tomiwa",
+      "company": "Codebit",
+      "opinion": "ss",
+      "id": 6
+    },
+    {
+      "name": "Thommzy",
+      "company": "Codebit",
+      "opinion": "sss",
+      "id": 7
+    },
+    {
+      "name": "Timothy Tomiwa",
+      "company": "Codebit",
+      "opinion": "ss",
+      "id": 8
+    },
+    {
+      "name": "Timothy Tomiwa",
+      "company": "Codebit",
+      "opinion": "ss",
+      "id": 9
+    },
+    {
+      "name": "Olaitan Faniran",
+      "company": "Efflux",
+      "opinion": "ssss",
+      "id": 10
+    },
+    {
+      "name": "Tim",
+      "company": "Efflux",
+      "opinion": "ss",
+      "id": 11
     }
   ],
   "profile": {
