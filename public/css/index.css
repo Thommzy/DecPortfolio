@@ -5,7 +5,7 @@ body {
 
 .rightTopNav {
   position: absolute;
-  left: 78%;
+  left: 88%;
 }
 
 .mainContainer {
@@ -87,4 +87,38 @@ body {
 .trainingAndExperience h1 {
   text-transform: uppercase;
   font-size: 25px;
+}
+.page-footer {
+  background: black;
+  color: #fff;
+}
+.page-footer a {
+  color: #fff;
+}
+
+.formMain {
+  margin-top: 50px;
+  margin-bottom: 170px;
+}
+
+.contactBanner h1 {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.contactBanner {
+  margin-top: 50px;
+}
+
+button a {
+  color: black;
+}
+button a:hover {
+  color: white;
+  text-decoration: none;
+}
+button:hover {
+  background: #66127e !important;
+  color: white !important;
 }
