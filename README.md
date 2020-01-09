@@ -1,3 +1,5 @@
+![Code Warrior Badge](https://www.codewars.com/users/Thommzy/badges/small)
+
 # DecPortfolio
 My Personal Portfolio
 
